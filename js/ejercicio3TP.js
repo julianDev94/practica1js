@@ -1,0 +1,1 @@
+document.write(`<p>El resultado de la suma 3 + 5 es: ${3+5}</p>`);
